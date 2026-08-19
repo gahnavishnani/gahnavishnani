@@ -162,20 +162,52 @@ I'm focused on building **end-to-end AI applications** rather than isolated demo
 
 # 💼 Experience
 
+### 💻 Technical Intern 
+
+Worked on **full-stack web development and internal application development**, contributing to multiple real-world projects.
+
+* 🌐 Developed and enhanced **full-stack web applications**
+* 🔐 Built **user registration and login systems**
+* 📊 Developed an interactive **dashboard** for application data and workflows
+* 🚀 Built **SociaNova**, a full-stack social media application
+* 🔗 Integrated and consumed **REST APIs** for application functionality
+* ⚙️ Worked across both **frontend and backend development**
+* 🗄️ Worked with databases and application data
+* 🧩 Debugged, tested, and improved application features
+
+**Tech:** `React` `JavaScript` `Node.js` `Express.js` `REST APIs` `MongoDB` `HTML` `CSS`
+
+---
+
 ### 📊 Data Engineering Intern
 
-Worked on real-world data engineering workflows involving:
+Worked on real-world **data engineering and analytics workflows**, gaining experience with production-oriented data systems.
 
-* ⚡ **Databricks & PySpark**
-* ☁️ **Azure Data Pipelines**
-* 🔄 **ETL / ELT workflows**
-* 🌀 **Apache Airflow DAGs**
-* 🗄️ **SQL & Data Warehousing**
-* 📊 **Power BI dashboards**
-* 🔍 **Data quality & monitoring**
-* 🛠️ Production data troubleshooting
+* ⚡ Worked with **Databricks & PySpark**
+* ☁️ Built/worked with **Azure Data Pipelines**
+* 🔄 Worked on **ETL / ELT workflows**
+* 🌀 Developed and worked with **Apache Airflow DAGs**
+* 🗄️ Wrote **SQL queries** for data processing and analytics
+* 📊 Worked on **Power BI dashboards**
+* 🔍 Investigated **data quality, freshness, and pipeline issues**
+* 🛠️ Worked on production data troubleshooting and monitoring
 
-This experience helped me understand how **data systems work behind real-world applications**.
+**Tech:** `Python` `SQL` `PySpark` `Databricks` `Azure` `Airflow` `Power BI` `Snowflake` `dbt`
+
+---
+
+### 🎯 What these experiences represent
+
+**Full-Stack Development**
+→ Frontend + Backend + APIs + Databases
+
+**Data Engineering**
+→ ETL + PySpark + Databricks + SQL + Cloud + Orchestration
+
+**AI Engineering**
+→ GenAI + AI-powered applications + intelligent APIs
+
+Together, these experiences support my goal of becoming an **AI Full-Stack Engineer** capable of building applications end-to-end.
 
 ---
 
