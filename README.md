@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Gahna Vishnani
 
-### 🤖 AI Full-Stack Engineer in Progress
+### 🤖 AI Full-Stack Engineer
 
 **Building intelligent, scalable & production-ready applications**
 
