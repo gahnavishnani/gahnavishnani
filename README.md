@@ -1,16 +1,356 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gahnavishnani/gahnavishnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Gahna Vishnani
 
-Here are some ideas to get you started:
+### 🤖 AI Full-Stack Engineer in Progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building intelligent, scalable & production-ready applications**
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20GenAI-🤖-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-🌐-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Engineering-📊-orange?style=for-the-badge"/>
+</p>
+
+<p>
+  <a href="https://github.com/gahnavishnani">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:target.chaser0404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a **B.Tech CSE student** preparing to become an **AI Full-Stack Engineer**.
+
+I enjoy building complete applications that bring together:
+
+**Frontend → Backend → Databases → Data → AI → Cloud**
+
+I'm particularly interested in **Generative AI, LLM-powered applications, intelligent APIs, scalable backend systems, and modern data architectures**.
+
+```text
+🎯 Current Goal
+AI Full-Stack Engineering
+
+🤖 AI
+GenAI • LLMs • RAG • NLP • Embeddings
+
+🌐 Full Stack
+React • JavaScript • Node.js • Express • FastAPI
+
+🗄️ Data
+Python • SQL • PostgreSQL • MongoDB • PySpark
+
+☁️ Cloud & Engineering
+Azure • Databricks • Snowflake • Airflow • Docker • Git
+```
+
+---
+
+# ⚡ Tech Stack
+
+## 🤖 AI & GenAI
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+`Generative AI` `LLMs` `RAG` `Prompt Engineering` `NLP` `OCR`
+`Embeddings` `Vector Search` `Hugging Face` `Sentence Transformers`
+
+---
+
+## 🌐 Full-Stack Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,fastapi" />
+</p>
+
+`React.js` `JavaScript` `Node.js` `Express.js` `FastAPI`
+`REST APIs` `Authentication` `Frontend Architecture` `Backend Development`
+
+---
+
+## 🐍 Programming & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,postgres,mongodb,mysql" />
+</p>
+
+**Languages**
+
+`Python` `Java` `JavaScript` `SQL`
+
+**Databases**
+
+`PostgreSQL` `MongoDB` `MySQL`
+
+---
+
+## 📊 Data Engineering
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,postgres" />
+</p>
+
+`PySpark` `Databricks` `Snowflake` `Apache Airflow` `dbt`
+`ETL / ELT` `Data Pipelines` `Data Warehousing` `Data Modeling`
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
+</p>
+
+`Microsoft Azure` `Docker` `Git` `GitHub` `CI/CD`
+
+---
+
+## 📈 Analytics
+
+`Power BI` `Pandas` `NumPy` `Matplotlib`
+
+---
+
+# 🚀 What I'm Building
+
+I'm focused on building **end-to-end AI applications** rather than isolated demos.
+
+```text
+                     ┌────────────────────┐
+                     │      USER          │
+                     └─────────┬──────────┘
+                               ↓
+                     ┌────────────────────┐
+                     │   React Frontend   │
+                     └─────────┬──────────┘
+                               ↓
+                     ┌────────────────────┐
+                     │   Backend / APIs   │
+                     │ FastAPI / Node.js  │
+                     └─────────┬──────────┘
+                               ↓
+              ┌────────────────┴────────────────┐
+              ↓                                 ↓
+      ┌────────────────┐              ┌────────────────┐
+      │   Databases    │              │   AI Layer     │
+      │ PostgreSQL     │              │ LLM / RAG      │
+      │ MongoDB        │              │ Embeddings     │
+      └────────────────┘              └────────────────┘
+              ↓                                 ↓
+              └────────────────┬────────────────┘
+                               ↓
+                     ┌────────────────────┐
+                     │ Cloud / Deployment │
+                     │ Azure / Docker     │
+                     └────────────────────┘
+```
+
+---
+
+# 💼 Experience
+
+### 📊 Data Engineering Intern
+
+Worked on real-world data engineering workflows involving:
+
+* ⚡ **Databricks & PySpark**
+* ☁️ **Azure Data Pipelines**
+* 🔄 **ETL / ELT workflows**
+* 🌀 **Apache Airflow DAGs**
+* 🗄️ **SQL & Data Warehousing**
+* 📊 **Power BI dashboards**
+* 🔍 **Data quality & monitoring**
+* 🛠️ Production data troubleshooting
+
+This experience helped me understand how **data systems work behind real-world applications**.
+
+---
+
+# 🌟 Featured Projects
+
+## 🩺 Sukhi Suvidha — AI Medical Simplifier
+
+> Making complex medical information easier to understand.
+
+An AI-powered application that simplifies medical prescriptions and provides accessible multilingual output.
+
+### 🔧 Tech
+
+`React` `FastAPI` `Python` `EasyOCR` `NLP` `Sentence Transformers` `gTTS`
+
+### ✨ Features
+
+* 📄 Prescription OCR
+* 🤖 AI-powered text simplification
+* 🌍 Multilingual support
+* 🔊 Text-to-Speech
+* ⚡ React + FastAPI architecture
+
+**🏆 OpenAI NextWave Buildathon — State-Level Selection**
+
+---
+
+## 🏦 GenEthix — AI Banking Platform
+
+> Intelligent banking experience powered by AI.
+
+A full-stack AI banking application combining modern web development with intelligent features.
+
+### 🔧 Tech
+
+`React` `Node.js` `Express` `MongoDB` `GenAI`
+
+### ✨ Focus
+
+* 🌐 Full-stack architecture
+* 🤖 AI integration
+* 🔐 Backend APIs
+* 🗄️ Database management
+* 📱 Responsive UI
+
+---
+
+## 🛒 Retail Data Engineering Platform
+
+> End-to-end data engineering architecture.
+
+A production-style data platform designed around a modern **Bronze → Silver → Gold** architecture.
+
+### 🔧 Tech
+
+`Python` `SQL` `PostgreSQL` `PySpark` `Airflow` `dbt` `Snowflake` `Docker`
+
+### 🏗️ Architecture
+
+```text
+Raw Data
+   ↓
+🥉 Bronze
+   ↓
+🥈 Silver
+   ↓
+🥇 Gold
+   ↓
+Analytics / BI
+```
+
+The project focuses on **data ingestion, transformation, orchestration, data quality, and analytics-ready datasets**.
+
+---
+
+# 🏆 Achievements
+
+🏅 **OpenAI NextWave Buildathon**
+Selected for State-Level Buildathon
+
+🏅 **GHCI AI Hackathon**
+Qualified Round 1
+
+🏅 **NxtWave OpenAI Academy Buildathon**
+Qualified Round 1
+
+🏆 **RIT Campus Hackathon**
+Top team / Finalist
+
+---
+
+# 📚 Currently Learning
+
+```text
+                AI FULL-STACK ENGINEERING
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+       Frontend         Backend            AI
+          │                │                │
+       React.js         FastAPI           GenAI
+       JavaScript       Node.js            LLMs
+       Tailwind         REST APIs          RAG
+          │                │             Embeddings
+          └────────────────┼────────────────┘
+                           ↓
+                       DATABASES
+                           │
+                    SQL • PostgreSQL
+                    MongoDB • Vector DB
+                           │
+                           ↓
+                       CLOUD
+                           │
+                     Azure • Docker
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gahnavishnani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahnavishnani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gahnavishnani&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gahnavishnani&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/gahnavishnani">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:target.chaser0404@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Break. Fix. Repeat.
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
